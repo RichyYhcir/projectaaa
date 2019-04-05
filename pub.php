@@ -1,6 +1,6 @@
  <?php
  function pubMqtt($topic,$msg) {
-    $APPID= "projectaaa/";                 //NETPIE APPID
+    $APPID= "projectaaa";                 //NETPIE APPID
     $KEY = "C1mCgQbtOAAXGyM";              //NETPIE Key
     $SECRET = "gsNU1NrfNVSBQuUkS1WAuNlM6"; //NETPIE Secret
     $Topic = "$topic";
